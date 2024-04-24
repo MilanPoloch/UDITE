@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <osoby>
     <osoba osCislo='R1245'>
-        <jmeno>Jan</jmeno>
-        <prijmeni>Novák</prijmeni>
+        <jmeno>Milan</jmeno>
+        <prijmeni>Poloch</prijmeni>
         <stav>studuje</stav>
-        <obor>KMI</obor>
-        <rocnik>2</rocnik>
-        <email>jan.novak06@upol.cz</email>
+        <obor>INF</obor>
+        <rocnik>1</rocnik>
+        <email>milan.poloch01@upol.cz</email>
         <pohlavi>muž</pohlavi>
-        <kredity>12</kredity>
+        <kredity>180</kredity>
     </osoba>
     <osoba osCislo='R1246'>
         <jmeno>Hana</jmeno>
